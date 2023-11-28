@@ -19,5 +19,4 @@ Next thing you need to make is your Content Mod prefab. First, make an empty obj
 To add lines, all you need to do is add them in the array of strings in each data container. **IMPORTANT:** In the string array, each line's ID must be in the format of "lineX" with X being its place in the string array. See the sample lines already on the base pack. It's fine to leave a data container empty.
 
 # Publishing
-
-All done with setting up? Before you publish your mod, make sure to test it first! Select your content mod, and press Ctrl + E. This will export your mod. Now run the game with the Team Voices 3.0 mutator active and see if your lines are playing properly. All good? Now go back to Unity and go to Ravenfield Tools -> Publish To Steam Workshop and follow the instructions there.
+All done with setting up? Before you publish your mod, make sure to test it first! Select your content mod, and press Ctrl + E. This will export your mod. Now run the game with the Community Based Text chat mutator active and see if your lines are displaying properly. All good? Now go back to Unity and go to Ravenfield Tools -> Publish To Steam Workshop and follow the instructions there. 
